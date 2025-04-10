@@ -13,8 +13,8 @@
         `)}u.on("input",function(){g(+this.value)}),g(-1)}).catch(h=>{console.error("Vis 3 Error: ",h)})}const Jc=document.getElementById("content"),Kc=document.querySelectorAll("a[data-view]");function Jr(t){const n={about:`
       <h2>About</h2>
       <p>My name is Zack Carlstrom and this is my Open Skill Assignment 2 for INFO 4602: Information Visualization. This project uses D3.js to visualize historical data from the Crimean War. The data comes from the
-      <a href="https://raw.githubusercontent.com/altair-viz/vega_datasets/refs/heads/master/vega_datasets/_data/crimea.json" target="_blank" rel="noopener noreferrer
-      >Vega-Datasets</a> Github Repository, which is a dataset we used early on during the semester. Below are some sketches of the three created visualizations. To view the final charts, navigate to them
+      <a href="https://raw.githubusercontent.com/altair-viz/vega_datasets/refs/heads/master/vega_datasets/_data/crimea.json" target="_blank" rel="noopener noreferrer">
+      Vega-Datasets </a> Github Repository, which is a dataset we used early on during the semester. Below are some sketches of the three created visualizations. To view the final charts, navigate to them
       using the navbar at the top.</p>
       <h2 style="margin-top: 4rem;">Sketches:</h2>
       <div class="vis-sketches">
@@ -40,7 +40,7 @@
       </div>
     
     `,vis1:`<h2>Visualization 1</h2>
-    <h3>Causes of Mortality in the Crimean War: <a href="https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/" target="_blank" rel="noopener noreferrer>Nightingale Inspiration</a></h3>
+    <h3>Causes of Mortality in the Crimean War: <a href="https://www.scientificamerican.com/article/how-florence-nightingale-changed-data-visualization-forever/" target="_blank" rel="noopener noreferrer">Nightingale Inspiration</a></h3>
     <p style="font-size: 13px;">*Hover over the chart to view specific information</p>
     <div id="chart1"></div>`,vis2:`<h2>Visualization 2</h2>
     <h3>Causes of Death in Crimean War Over Time</h3>
