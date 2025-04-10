@@ -21,19 +21,19 @@
       
         <div class="vis-sketch">
           <h3>Visualization 1: Stacked Radial Chart</h3>
-          <img src="sketches/vis1.jpeg" alt="Sketch of Visualization 1" width="300" />
+          <img src="./sketches/vis1.jpeg" alt="Sketch of Visualization 1" width="300" />
           <p></p>
         </div>
       
         <div class="vis-sketch">
           <h3>Visualization 2: Animated Line Chart</h3>
-          <img src="sketches/vis2.jpeg" alt="Sketch of Visualization 2" width="300" />
+          <img src="./sketches/vis2.jpeg" alt="Sketch of Visualization 2" width="300" />
           <p></p>
         </div>
       
         <div class="vis-sketch">
           <h3>Visualization 3: Dot Grid</h3>
-          <img src="sketches/vis3.jpeg" alt="Sketch of Visualization 3" width="300" />
+          <img src="./sketches/vis3.jpeg" alt="Sketch of Visualization 3" width="300" />
           <p></p>
         </div>
       
